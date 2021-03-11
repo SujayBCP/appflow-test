@@ -7,7 +7,14 @@
   top: 50%;
   transform: translateY(-50%);
 }
+ion-content{
+  --background: #cc8899;
 
+}
+
+ion-toolbar{
+  // --background: #cc8899;
+}
 #container strong {
   font-size: 20px;
   line-height: 26px;

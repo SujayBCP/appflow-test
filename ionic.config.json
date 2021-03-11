@@ -1,5 +1,7 @@
 {
   "name": "whip",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
