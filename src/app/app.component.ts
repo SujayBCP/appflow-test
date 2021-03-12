@@ -12,13 +12,13 @@ export class AppComponent {
     private platform: Platform,
     private splashScreen: SplashScreen,
   ) {
-    // this.initializeApp();
+    this.initializeApp();
   }
 
   initializeApp() {
-    // this.platform.ready().then(() => {
+    this.platform.ready().then(() => {
       this.splashScreen.hide();
-    // });
+    });
   }
 
 }
