@@ -16,9 +16,9 @@ export class AppComponent {
   }
 
   initializeApp() {
-    this.platform.ready().then(() => {
+    // this.platform.ready().then(() => {
       this.splashScreen.hide();
-    });
+    // });
   }
 
 }
