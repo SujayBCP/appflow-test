@@ -12,7 +12,7 @@ export class AppComponent {
     private platform: Platform,
     private splashScreen: SplashScreen,
   ) {
-    this.initializeApp();
+    // this.initializeApp();
   }
 
   initializeApp() {
