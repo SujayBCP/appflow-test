@@ -71,7 +71,7 @@
       "cordova-plugin-ionic-keyboard": {},
       "cordova-plugin-ionic": {
         "APP_ID": "49dd3515",
-        "CHANNEL_NAME": "Production",
+        "CHANNEL_NAME": "Development",
         "UPDATE_METHOD": "auto",
         "MAX_STORE": "2",
         "MIN_BACKGROUND_DURATION": "30",
